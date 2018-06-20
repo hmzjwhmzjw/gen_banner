@@ -1,0 +1,23 @@
+衬线字体 优雅 高贵 艺术 复古
+    方正楷体 FZKTJW.TTF
+    方正兰亭宋 FZLTSJW.TTF
+无衬线字体 现代 简洁 轻松 低调
+    方正兰亭黑简体 FZLTHJW.TTF
+    方正兰亭细黑简体 FZLTXIHJW.TTF
+    方正黑体简体 FZHTJW.TTF
+    方正兰亭圆简体 FZLanTYJW.ttf
+粗字体 男性 阳刚 粗犷 霸气
+    方正大黑简体 FZDHTJW.TTF
+    方正兰亭粗黑简体 FZLTCHJW.TTF
+    方正粗宋简体 FZCSJW.TTF
+    方正粗楷简体 FZCKJW.TTF
+细字体 女性 优雅 高端 清新
+    方正兰亭超细黑简体 FZLTCXHJW.TTF
+    方正兰亭纤黑简体 FZLTXHJW.TTF
+    方正兰亭纤圆简体 FZLanTYJW_Xian.ttf
+中国风
+    方正硬笔行书 FZYBXSJW.TTF
+可爱
+    方正少儿简体 FZSEJW.TTF
+万能
+    方正清刻本悦宋简体 FZQKBYSJW.TTF
